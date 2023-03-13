@@ -1,0 +1,145 @@
+
+
+.main{
+	height:500px;
+	width:475px;
+	border:1px black solid;
+	border-radius:15px;
+	margin:auto;
+	display:flex;
+	flex-direction: column;
+	
+}
+	
+
+
+.input{
+	width:400px;
+	height:40px;
+	padding:0 40;
+	border:1px solid #dfe1e5;
+	border-radius: 13px;
+	margin:10px auto;
+
+
+}
+
+.inbtn{
+	width:80px;
+	height:40px;
+	padding:10px 15px;
+	background:#3972b8;
+	border: #3972b8 1px solid;
+	border-radius: 50px;
+	font-family: "Verdana";
+	font-weight:bold;
+	font-size: 12px;
+	color:#f5f7fa;
+	margin-top:20px;
+	
+}
+
+.signline{
+	display: block;
+	margin:0 auto;
+	justify-content: center;
+	padding-bottom:20px;
+	border-bottom: 1px black solid;
+}
+
+
+.fbtn{
+	width:100px;
+	height:30px;
+	padding-bottom:20;
+	background:#3972b8;
+	border: #3972b8 1px solid;
+	border-radius: 50px;
+	font-family: "Verdana";
+	font-weight:bold;
+	font-size: 12px;
+	color:#f5f7fa;
+	margin-right:10px;
+	}
+
+.gbtn{	
+	width:100px;
+	height:30px;
+	padding-bottom:20;
+	background:white;
+	border: grey 1px solid;
+	border-radius: 50px;
+	font-family: "Verdana";
+	font-weight:bold;
+	font-size: 12px;
+	color:grey;
+	margin-right:10px;
+
+	}
+	
+.abtn{	
+	width:100px;
+	height:30px;
+	padding-bottom:20;
+	background:#3972b8;
+	border: #3972b8 1px solid;
+	border-radius: 50px;
+	font-family: "Verdana";
+	font-size: 12px;
+	color:#f5f7fa;
+	background:black;
+	border:black 1px solid;
+	}
+
+.btn-wrapper{
+	margin:0 auto;
+	border-bottom: black 1px solid;
+	padding-bottom:20px;
+
+}
+
+.altern{
+	margin-top: 20px;
+	text-align:center;
+	text-align:center;
+	font-family: "Verdana";
+	font-size: 11px;
+	font-weight:bold;
+	color:grey;
+
+}
+
+.rum{
+	text-align: left;
+	font-family: "Verdana";
+	font-weight:bold;
+	color:grey;
+}
+
+.ifyou{
+	text-align:center;
+	font-family: "Verdana";
+	font-size: 11px;
+	font-weight:bold;
+	color:grey;
+}
+
+.forgot{
+	font-family: "Verdana";
+	font-weight:bold;
+	color:grey;
+}
+
+.dont{
+	font-family: "Verdana";
+	font-weight:bold;
+	color:grey;
+}
+.create{
+	font-family: "Verdana";
+	font-weight:bold;
+	color:grey;
+}
+.closeout{
+		text-align:center;
+}
